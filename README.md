@@ -144,16 +144,6 @@ To ensure zero financial surprises, the engine defaults to **Simulation Mode**:
 
 ---
 
-## 🏷️ GitHub Repository SEO & Discovery Topics
-
-To maximize discovery when publishing this repository on GitHub, populate the **About -> Topics** section with these tags:
-```text
-solana, pumpfun, sniper-bot, jito-bundle, raydium, mev-bot, trading-bot, 
-solana-web3, crypto-trading, algorithmic-trading, memecoin, rust, typescript
-```
-
----
-
 ## ⚠️ Disclaimer
 
 *This software is provided for educational and research purposes only. Automated trading on decentralized networks involves financial risk, liquidity shifts, and smart contract vulnerabilities. Always test thoroughly in simulation mode before deploying live capital.*
