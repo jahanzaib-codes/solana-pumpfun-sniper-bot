@@ -11,10 +11,9 @@
 
 ### 💼 Need Custom Web3 Bots, Algorithmic Engines, or Private RPC Infrastructure?
 I engineer high-performance quantitative trading bots, Solana snipers, and automated market makers for private syndicates and proprietary trading firms.
-* 💬 **Telegram:** [@jahanzaib_codes](https://t.me/jahanzaib_codes)
-* 💼 **Upwork Profile:** [Upwork Verified Algorithmic Engineer](https://www.upwork.com)
-* 📧 **Email:** `jahanzaib.remotehub@gmail.com`
-* ⚡ **Discord:** `jahanzaib_codes`
+* 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
+* 💼 **Upwork Profile:** [Upwork Verified Algorithmic Specialist](https://www.upwork.com/freelancers/~JanzebBlockdev)
+* 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
 
@@ -161,3 +160,4 @@ solana-web3, crypto-trading, algorithmic-trading, memecoin, rust, typescript
 
 ---
 *Maintained by **Jahanzaib** ([@jahanzaib-codes](https://github.com/jahanzaib-codes))*
+
