@@ -24,8 +24,7 @@ I engineer high-performance quantitative trading bots, Solana snipers, and autom
 4. [Installation & Setup](#-installation--setup)
 5. [Configuration (.env)](#-configuration-env)
 6. [Simulation Mode vs Live Mode](#-simulation-mode-vs-live-mode)
-7. [GitHub Repository SEO & Discovery Topics](#-github-repository-seo--discovery-topics)
-8. [Disclaimer](#-disclaimer)
+7. [Disclaimer](#-disclaimer)
 
 ---
 
