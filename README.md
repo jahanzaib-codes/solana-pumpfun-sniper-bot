@@ -1,4 +1,4 @@
-# ⚡ Solana Pump.fun Sniper Bot with Jito MEV Bundle Protection
+﻿# ⚡ Solana Pump.fun Sniper Bot with Jito MEV Bundle Protection
 
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-9945FF?style=flat-square&logo=solana&logoColor=white)](https://solana.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5+-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -12,7 +12,7 @@
 ### 💼 Need Custom Web3 Bots, Algorithmic Engines, or Private RPC Infrastructure?
 I engineer high-performance quantitative trading bots, Solana snipers, and automated market makers for private syndicates and proprietary trading firms.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* 💼 **Fiverr Profile:** [jahanzaib313110 (Fiverr Specialist)](https://www.fiverr.com/jahanzaib313110)
+* 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://tinyurl.com/2wruxnsx)
 * 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
@@ -149,4 +149,5 @@ To ensure zero financial surprises, the engine defaults to **Simulation Mode**:
 
 ---
 *Maintained by **Jahanzaib** ([@jahanzaib-codes](https://github.com/jahanzaib-codes))*
+
 
