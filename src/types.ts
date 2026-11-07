@@ -67,3 +67,4 @@ export interface Position {
   currentValueSol: number;
   openTime: number;
 }
+
